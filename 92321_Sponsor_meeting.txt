@@ -1,0 +1,14 @@
+09/22/21 Sponsor meeting:
+
+What to do:
+- Decide what we want to use for communications with the sponsor.
+- Decide on the date and time to meet
+- Reasearch VR engines what we would like to use.
+
+What we talked about:
+- The project is discovery type. Learn as we go. Communicate milestones and due dates.
+- No preference to work with.
+- The product would go from consumer to enterprise world.
+- End goal to create some application that has a virtual environment that would work with randomized
+	entities that can communicate with the player. The environment would have hidden objects
+	that would need to be discovered.
