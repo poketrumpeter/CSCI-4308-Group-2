@@ -1,0 +1,9 @@
+Requirements
+	- Add some data visualization.
+	- Make a basic house with a bedroom, kitchen.
+	- Objects on top of other objects like a table.
+	- Submit after done clarifying.
+Unity
+	- Maybe make UBT for collaborating on a project.
+	- Everyone has it installed
+	- Focus on the first 3 getting started and move on.
